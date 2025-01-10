@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\.a852136b1354ac19482d3ed6662d683a7557fbe0-audit.json",
+    "files": [
+        {
+            "date": 1736500681989,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-18-01-success.log",
+            "hash": "f675ce13652666ef5e7910de4f8dcfda03ba13ad42287e05c1fbb6a5b5373058"
+        },
+        {
+            "date": 1736500934711,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-22-14-success.log",
+            "hash": "787fc351da6883fb1ecb6af9a885e4dd82695bd54ff6285eddbc04def3931897"
+        },
+        {
+            "date": 1736500937308,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-22-17-success.log",
+            "hash": "c2028fe2f225ba2251f9bcd3f1c39ce7d850d53394a48c342349bdc165b9d89a"
+        },
+        {
+            "date": 1736500939749,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-22-19-success.log",
+            "hash": "8871ec8ba95009fa565d52311c59346714d16984306d468f61de09438f3636cf"
+        },
+        {
+            "date": 1736500980653,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-23-00-success.log",
+            "hash": "42c94392d5b0a85289988f49469b37d5508b6ed318a805c37b3a68b85031f4e1"
+        },
+        {
+            "date": 1736500984542,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-23-04-success.log",
+            "hash": "ebd32eca7112f2a89113cb06e6ca95888a1e73bb66601a3076f8eb1a443c5d32"
+        },
+        {
+            "date": 1736500990130,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-23-10-success.log",
+            "hash": "563f8a428d0f449f2d38c4ca8c5a08e760a3d3e80a40b78a56bdb51f7d358d47"
+        },
+        {
+            "date": 1736500992384,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-23-12-success.log",
+            "hash": "55fcc6484d93e08d6673bcb8f39a770634afa9cb9dba43cc7dbc8a1488f9573b"
+        },
+        {
+            "date": 1736501005163,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-23-25-success.log",
+            "hash": "8807123e2098b5dfcd076d197c90e0eb5e42e676130bb9c72bdc04f65f84dcfe"
+        },
+        {
+            "date": 1736501068406,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-24-28-success.log",
+            "hash": "3639714d3ed2f86cc945bc54eb64ca4e4e673eb43a7996937753fb3f1333dcb8"
+        },
+        {
+            "date": 1736501071428,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-24-31-success.log",
+            "hash": "f7c93d0d5e1379a58ab681092e68b9442206e433aaf639d46a51f9829ff2d851"
+        },
+        {
+            "date": 1736501081341,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-24-41-success.log",
+            "hash": "36cb7b7496b9a6d804461125238a7af89c83c0e97c38933ed830e9f3778a6133"
+        },
+        {
+            "date": 1736501090119,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-24-50-success.log",
+            "hash": "dc5ac5ea3acd5456d797e07c753bc8d91b72587008af1367711f2bccb99e9f8b"
+        },
+        {
+            "date": 1736501171666,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-26-11-success.log",
+            "hash": "1009346445d58541392a4e8cf0712c67610224cdd39f7cc335e84a44f3ca6b62"
+        },
+        {
+            "date": 1736501209087,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-26-49-success.log",
+            "hash": "bcfb636c88381cc31e829d051371b714a999104b6d1a892764e021acc3428f67"
+        },
+        {
+            "date": 1736501240455,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-27-20-success.log",
+            "hash": "b825ea90fe32a0751c775760b4a74c6cb955a6fb977e3c85b7943aff10af3ca7"
+        },
+        {
+            "date": 1736501616306,
+            "name": "C:\\web-development\\docker\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2025-01-10-15-33-36-success.log",
+            "hash": "3b8468cfcbbb09531b5a74ea139238ea84b7e443df292660685cffd399bfad2e"
+        }
+    ],
+    "hashType": "sha256"
+}
